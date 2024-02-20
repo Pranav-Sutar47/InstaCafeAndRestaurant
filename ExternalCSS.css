@@ -1,0 +1,68 @@
+.vid{
+   margin-top:5%;
+   margin-right: 10%; 
+}
+
+.vid #vide{
+   width: 100%;
+   height: 90%;
+}
+
+.r1{
+   width: 30%;
+}
+
+.iView{
+   width:30%;
+   height:80%;
+   margin:20px;
+   
+}
+
+.iView #r2{
+   margin-left: 10%;
+}
+
+.iView #r3{
+   margin-left: 2%;
+   width: 30%;
+}
+
+.ima{
+   width: 200px;
+   height: 200px;
+   margin-left: 1px;
+}
+
+.iView img:hover{
+   border-radius: 10px;
+   opacity: 0.5;
+   transform: rotateZ(-10deg);
+}
+
+@media only screen and (max-width:600px) {
+
+   .vid #vide{
+      margin-top:20%;
+   }
+
+   .iView{
+      width: 90%;
+      height: 50%;
+   }
+   .iView #r2{
+      width: 80%;
+   }
+
+   .iView img{
+   width: 300px;
+   height: 200px;
+
+   }
+
+   .iView #r3{
+     width: 90%;
+     height: 50%;
+   }
+
+}

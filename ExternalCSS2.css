@@ -1,0 +1,32 @@
+.c{
+   margin-top: 5%;
+}
+
+#t2{
+   color:black;
+   text-decoration: underline;
+   margin-left: 3%;
+   margin-top:3%;
+}
+
+.card-img-top{
+   border-radius: 15px;
+}
+
+.card-title{
+   color: black;
+   font-weight: bolder;
+}
+
+.c{
+   color:black;
+   font-weight: bold;
+}
+
+@media only screen and (max-width:600px) {
+   .c{
+     width: 90%; 
+     height: 60%;
+     margin-top: 20%;
+   }
+}

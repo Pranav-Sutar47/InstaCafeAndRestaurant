@@ -1,0 +1,24 @@
+.t{
+   margin-top: 1%;
+}
+
+#t2{
+   text-decoration: underline;
+   margin-left:2%;
+   color:black;
+   margin-top:2%;
+}
+
+.card-img-top{
+   border-radius: 15px;
+}
+
+.card-title{
+   color: black;
+   font-weight: bolder;
+}
+
+.c{
+   color:black;
+   font-weight: bold;
+}
